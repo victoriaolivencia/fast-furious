@@ -1,4 +1,5 @@
 Seat Ibiza 2020
+Seat Ibiza 2022
 Renault Clio
 Ford Fiesta
 Toyota Corolla
@@ -9,3 +10,5 @@ Kia Rio
 Hyundai i20
 Opel Corsa
 Skoda Fabia
+Mazda 3
+Citroen C3
