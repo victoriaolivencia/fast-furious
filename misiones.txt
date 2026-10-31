@@ -1,4 +1,5 @@
 Rescatar a la tripulación
 Recuperar el mapa
 Escoltar el convoy
-
+Explorar la base lunar
+Proteger al informante
