@@ -1,3 +1,3 @@
 Proyecto Fast & Furious
 Autor: Vic
-Estado del garaje: operatibo.
+Estado del garaje: operativo.
